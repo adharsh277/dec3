@@ -1,0 +1,38 @@
+def my_function():
+    print("hello from my function")
+
+
+my_function()
+# 56
+
+
+def my_function():
+    print("hai everyone, today am going to say that there is a gang which i love to spend all the time , but i couldn't get time for those things")
+
+
+my_function()
+
+
+def my_function(fname):
+    print(fname + 'bartoz ezlin')
+
+
+my_function("jonas")
+my_function("mikkel")
+my_function("martha neizlin")
+# number of arguments
+
+
+def my_function(fname, lname):
+    print(fname + " frsnklin " + lname)
+
+
+my_function("Emil", "Refsnes")
+# 43
+
+
+def my_funtion(fname, lname):
+    print(fname + "richard benetick" + lname)
+
+
+my_function("louis", "samuel")
