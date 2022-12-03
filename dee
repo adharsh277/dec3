@@ -1,0 +1,39 @@
+class myclass:
+    x = 5
+
+
+print(myclass)
+
+
+class myclass:
+    x = 8
+
+
+p1 = myclass()
+print(p1.x)
+# int():
+
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)
+# 564gds
+
+
+class person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+
+p1 = Person('joel', 35)
+
+print(p1.name)
+print(p1.age)
